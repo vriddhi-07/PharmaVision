@@ -13,7 +13,7 @@
 - [Demo Video](#demo-video)
   
 ## Problem Statement  
-To create a pharmacist’s assistant, that automatically matches orders against handwritten prescriptions and creates orders for patients  
+To create a pharmacist’s assistant, that automatically matches orders against handwritten prescriptions and creates orders for patients.  
   
 ## Introduction  
 A web application where users can upload an image of the prescription in JPG, JPEG and PNG formats, and get a clear overview of details like medicine name, dosage, frequency, duration, along with patient and doctor details. It additionally includes an AI powered medical assistant that enables users to ask questions about their medicine and get instant replies.  
