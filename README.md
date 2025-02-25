@@ -1,5 +1,17 @@
 # PharmaVision  
 
+## Table of Contents
+- [Problem Statement](#problem-statement)
+- [Introduction](#introduction)
+- [Key Features](#key-features)
+- [Prerequisites](#prerequisites)
+- [Setup Instructions](#setup-instructions)
+- [Running the Application](#running-the-application)
+- [Tech Stack](#tech-stack)
+- [Applications](#applications)
+- [Future Scope](#future-scope)
+- [Demo Video](#demo-video)
+  
 ## Problem Statement  
 To create a pharmacist’s assistant, that automatically matches orders against handwritten prescriptions and creates orders for patients  
   
