@@ -178,7 +178,7 @@ if 'uploaded_file' not in session_state:
     session_state.uploaded_file = None
 
 def main():
-    st.title('Medical Prescription Parsing')
+    st.subheader('Decode your prescription')
     global parser
     parser = JsonOutputParser(pydantic_object=PrescriptionInformations)
     uploaded_file = st.file_uploader("Upload a Prescription image", type=["png", "jpg", "jpeg"])

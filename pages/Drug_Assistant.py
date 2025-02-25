@@ -32,12 +32,12 @@ def get_drug_info(question):
     return response.choices[0].message.content
 
 # Streamlit UI
-st.title("Familiarize Yourself With Your Prescription")
+st.subheader("Familiarize yourself with your medication")
 
 # Input for questions
 medications_input = st.text_area("Ask anything about your medicine!")
 
-if st.button("Check Interactions"):
+if st.button("Submit"):
     if medications_input:
 
         # Generate response from the model
